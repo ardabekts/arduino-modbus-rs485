@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="schematic/max-485-schematic.png" width="100%" height="100%" />
+  <img src="schematic/max-485-schematic-preview.png" width="100%" height="100%" />
 </p>
 
 <h1 align="center">Arduino RS-485 Communication System</h1>
